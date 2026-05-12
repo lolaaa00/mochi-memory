@@ -3,7 +3,7 @@ import { testnetBradbury } from 'genlayer-js/chains';
 
 const client = createClient({ network: testnetBradbury });
 
-export const CONTRACT_ADDRESS = '0xYOUR_ADDRESS_HERE';
+export const CONTRACT_ADDRESS = '0x82b0311B4eE4aeCF1F22eD540C940E185F7CE5f1';
 
 export async function judgeMatch(
   card1: string,
